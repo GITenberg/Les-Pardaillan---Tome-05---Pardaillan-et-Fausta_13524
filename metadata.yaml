@@ -1,0 +1,31 @@
+_repo: Les-Pardaillan---Tome-05---Pardaillan-et-Fausta_13524
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zévaco, Michel
+    aliases:
+    - Zévaco, Michael
+    - Zevaco, Michel
+    birthdate: 1860
+    deathdate: 1918
+    gutenberg_agent_id: '4909'
+    url: http://www.gutenberg.org/2009/agents/4909
+    wikipedia: http://fr.wikipedia.org/wiki/Michel_Z%C3%A9vaco
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13524'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature'
+title: 'Les Pardaillan — Tome 05 : Pardaillan et Fausta'
+url: http://www.gutenberg.org/ebooks/13524
